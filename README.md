@@ -1,10 +1,12 @@
 ## 🚀 Sobre Mim
 
+Sou profissional apaixonado pela área de tecnologia da informação, curioso e comprometido com o aprendizado contínuo. Encaro desafios com entusiasmo e acredito que a colaboração é essencial para a inovação. Valorizo a troca de experiências com profissionais talentosos e tenho um interesse especial por design de interfaces e usabilidade, o que me permite criar soluções intuitivas e agradáveis para os usuários. No meu tempo livre, exploro novas tecnologias e participo de comunidades online para me manter atualizado nas últimas tendências do setor.
+
 - 📚 Formado em Tecnologia em Gestão da Tecnologia da Informação pela Uninove.
 - 🚀 Cursando Desenvolvimento Full Stack Phyton pela EBAC. 
-- 💻 Experiência | javascript | CSS | HTML | React | SQL, etc.
+- 💻 Experiência | HTML, Tailwind CSS, SASS, LESS, GULP, GRUNT, JQuery, Javascript, Vue.js, Next.js, Programação orientada a objetos,  Bootstrap, Web API, Scrum, Jira, metodologias ágeis, Vercel, Git/Github, SQL Server
 - 🌱 Atualmente aprofundando conhecimento Desenvolvimento Full Stack.
-- 💬 Você pode me encontrar em https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile.
+- 💬 Você pode me encontrar em: (https://www.linkedin.com/in/wendel-lopes-/)
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -12,37 +14,23 @@
 - Frameworks: React,Flask e Django etc.
 - Ferramentas: Git, GitHub.
 - Outras tecnologias: Google Workspace, Trello, Slack, Power BI, Canva.
-- 
 ## 🌟 Projetos
 
 Aqui estão alguns dos projetos em que trabalhei:
 
+1. **Projeto disney_plus_clone_**
+   - O projeto trata-se de réplica de um site já existente de uma plataforma de streaming, visando aplicar conhecimentos Front end adquirido durante o curso. As etapas do desenvolvimento incluem: planejamento e definição de requisitos, criação do layout e design visual, implementação de funcionalidades e integração de ferramentas, além de testes de usabilidade. Após o lançamento, o desempenho do site será monitorado para garantir sua eficácia.
+Ferramentas, linguagens e tecnologias utilizadas no desenvolvimento são: Visual Studio Code, HTML, PARCEL, CSS, JavaScript, GitHub e Vercel.
+- https://vercel.com/wendel-s-projects-08708483/disney_plus_clone
+
 1. **Projeto_MygameShop_3**
-    - Descrição: ⦁ O projeto consiste em uma ideia de loja de games, um site sofisticado com ideias diretas, e acessíveis. 
-    ⦁ O site conta com os campos como:  
-    Um combobox dentro dele: Sobre a loja, Promoções. Produtos, e - Fale conosco. 
-    A seguir temos um carrousel com imagens ilustrativas para renderizar o site. 
-    Campo Sobre a loja descrevendo o que é a Game Shop. 
-    Campo Promoções, destacando todos itens em promoção 
-    Campo Nossos Produtos com todos os produtos à venda. 
-    Campo Fale Conosco, composto por um formulário de informações a serem descritas. 
-    Links acessíveis para Redes Sociais. 
-    E por fim nossa localização.  
-   - Tecnologias: Visual Studio Code
-   - https://exercicio-projeto-3-brown.vercel.app/
+   ⦁ O projeto visa desenvolver um site sofisticado e acessível para uma loja de games, proporcionando uma experiência de compra intuitiva e funcional. As etapas do projeto incluem: planejamento e definição de requisitos, criação do layout e design visual, desenvolvimento das funcionalidades e integração das ferramentas, seguidos de testes de usabilidade. Após o lançamento, será realizado o monitoramento do desempenho do site.
+Ferramentas, linguagens e tecnologias utilizadas no desenvolvimento são: Visual Studio Code, HTML, CSS, JavaScript, Bootstrap, GitHub e Vercel.
+ - https://exercicio-projeto-3-brown.vercel.app/
 
 2. **Proj_StakeHouse**
-    - Descrição: ⦁ Um projeto focado para entrega de Restaurante/Bistrô, um site sofisticado com ideias diretas, e acessíveis. 
-    ⦁ O site conta com os campos como:  
-    Um combobox dentro dele: Sobre a loja, Eventos, Nosso Cardápio, e - Fale conosco. 
-    A seguir temos um carrousel com imagens ilustrativas para renderizar o site. 
-    Campo Sobre a loja descrevendo o que é a StakeHouse. 
-    Campo Para Todas as ocasiões, destacando todos os atendimentos oferecidos pela StakeHouse. 
-    Campo Nosso cardápio com menu completo. 
-    Campo Fale Conosco, composto por um formulário de informações a serem descritas. 
-    Links acessíveis para Redes Sociais. 
-   E por fim nossa localização..
-   - Tecnologias: Visual Studio Code.
+    - O projeto tem como objetivo criar um site acessível para um restaurante, oferecendo uma experiência agradável tanto para refeições quanto para eventos. As etapas incluem: planejamento e definição de requisitos, criação do layout e design visual, desenvolvimento de funcionalidades e integração de ferramentas, além da realização de testes de usabilidade. Após o lançamento, será feito o monitoramento do desempenho do site.
+Ferramentas, linguagens e tecnologias utilizadas no desenvolvimento são: Visual Studio Code, HTML, CSS, JavaScript, Bootstrap, GitHub e Vercel.
    - https://proj-stake-house.vercel.app/
 
 
@@ -51,6 +39,6 @@ Aqui estão alguns dos projetos em que trabalhei:
 Se você quiser conversar ou colaborar em projetos, não hesite em me contatar!
 
 - 📧 Email: wendel_lopes11@Hotmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/wendel-lopes-b0265b236/
+- 💼 LinkedIn: (https://www.linkedin.com/in/wendel-lopes-/)
 
 Obrigado por visitar meu portfólio! Estou animado para conectar e colaborar com outros desenvolvedores!
